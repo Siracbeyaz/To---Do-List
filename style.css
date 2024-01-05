@@ -1,0 +1,49 @@
+body{
+    display: fex;
+    text-align: center;
+    height: 250px;
+    width: 400px;
+}
+
+
+#firstcontainer{
+    background-color: bisque;
+    border-radius: 5px;
+}
+
+#header{
+    background-color: red;
+    margin: 10px 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 30px;
+}
+p{
+    width: 100px;
+    height: 50p;
+}
+
+#textlane{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#addtask{
+    background-color:aqua;
+    border-radius: 5px;
+    width: 260px;
+    height: 30px;
+    text-align: center;
+}
+
+#deletbutton{
+    border-radius: 5px;
+    background-color: aqua;
+    margin-bottom: 10px;
+}
+
+#task{
+    text-align: center;
+}
